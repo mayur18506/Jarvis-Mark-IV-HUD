@@ -12,3 +12,4 @@ A voice-controlled, Tony Stark-inspired virtual assistant built as a custom desk
 * **Voice Command Pipeline:** Continuous listening mode for hands-free operations.
 * **Local OS Automation:** Instantly launches applications (VS Code, GitHub, Notepad) and retrieves local info (exact system time).
 * **Hybrid Architecture:** Seamlessly switches between Gemini Cloud AI and local smart replies to ensure zero downtime.
+ 
